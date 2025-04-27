@@ -58,7 +58,7 @@ data/          数据文件（必须初始均为 []）
 
 ## Postman
 
-导入根目录的 `postman_collection.json`，并设置变量
+导入根目录的 `Rest API for Books CRUD and Message Board.postman_collection.json`，并设置变量
 
 ```
 base_url = http://localhost:5000
