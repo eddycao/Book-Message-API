@@ -46,6 +46,7 @@ data/          数据文件（必须初始均为 []）
 | PUT    | /books/id={id}                      | 按 ID 更新图书   |
 | DELETE | /books/id={id}                      | 按 ID 删除图书   |
 | POST   | /messages                           | 发布留言        |
+| GET    | /messages                           | 获取所有留言      |
 | GET    | /messages?page={page}&limit={limit} | 分页获取留言      |
 
 > **批量导入示例**  
